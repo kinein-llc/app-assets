@@ -4,3 +4,6 @@
 
 /sin360/*
   Cache-Control: public, max-age=31536000, immutable
+
+/kineindemo/*
+  Cache-Control: public, max-age=31536000, immutable
